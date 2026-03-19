@@ -186,5 +186,5 @@ Este projeto foi desenvolvido com fins de estudo para:
 
 # 👨‍💻 Autor
 
-Pedro Viana
+[Pedro Viana](https://www.linkedin.com/in/pedro-viana-santos-840736295/)
 Desenvolvedor em formação focado em Backend Java.
